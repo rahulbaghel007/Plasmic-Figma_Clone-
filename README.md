@@ -10,7 +10,7 @@
   </div>
 
   <h3 align="center">Real Time Figma Clone</h3>
-
+</div>
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
